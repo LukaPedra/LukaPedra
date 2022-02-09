@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--
 **LukaPedra/LukaPedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+![Lukas's github stats](https://github-readme-stats.vercel.app/api?username=LukaPedra&hide=["issues"]&show_icons=true)
