@@ -3,8 +3,6 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-## ⚡ Technologies
-Talk to me about:
 - Python
 - Pandas
 - C
